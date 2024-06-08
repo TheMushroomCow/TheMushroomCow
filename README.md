@@ -1,3 +1,5 @@
+READ THIS IN CODE PLEASE!
+
 print("Hi, my name is Mich. Prefer TheMushroomCow though. I am very interested in LUA and really really REALLY hope that coding dream of mine would become bigger.")
 
 local function(What interests you in coding?)
